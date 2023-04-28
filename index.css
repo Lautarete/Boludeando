@@ -1,0 +1,23 @@
+body {
+  background-color: #1b1b1b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background-color: red;
+  width: 80vw;
+  min-height: 100px;
+  font-size: 32px;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+}
+
+.h12 {
+  display: none;
+}
